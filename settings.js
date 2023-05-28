@@ -15,21 +15,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918348225320'] //ur owner number
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "Instagram: deepak_gupta_2006" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.owner = ['‪971553527240‬'] //ur owner number
+global.ownername = "لايت" //ur owner name
+global.ytname = "اليوتيوب: ZEROTWOBOT" //ur yt chanel name
+global.socialm = "موقعنا : قريب باذن الله♥" //ur github or insta name
+global.location = "asia, UAE, " //ur location
 
 //bot bomdy 
-global.ownernomer = "918348225320" //ur number
-global.ownertag = '918348225320' //ur tag number
-global.premium = ['918348225320'] //ur premium number
-global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownername = "🦄Dream Guy Deepak"
+global.ownernomer = "971553527240" //ur number
+global.ownertag = '971553527240' //ur tag number
+global.premium = ['971553527240'] //ur premium number
+global.botname = 'زيرو تو بوت' //ur bot name
+global.ownername = "لايت"
 global.linkz = "https://i.ibb.co/YPGXwjM/images-2.jpg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/@dreamguydeepak" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1' //script link
+global.websitex = "https://youtube.com/@ZEROTWOBOT" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydOSYuHzVX1' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Zenitsu-Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Deepak" //ur sticker watermark author
